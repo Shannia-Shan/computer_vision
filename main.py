@@ -100,7 +100,7 @@ def CE_Net_Train():
 
 
 if __name__ == '__main__':
-    print(torch.__version__())
+    #print(torch.__version__())
     CE_Net_Train()
 
 
